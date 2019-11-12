@@ -1,4 +1,4 @@
-<?xml version="1.0"
+ version="1.0"?>
 <catalog>
    <book id="bk101">
       <author>Gambardella, Aditya</author>
@@ -19,6 +19,7 @@
       an evil sorceress, and her own childhood to become queen 
       of the world.</description>
    </book>
+   <!-- TODO Added for later modification -->
    <book id="bk103">
       <author>Corets, Eva</author>
       <title>Maeve Ascendant</title>
